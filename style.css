@@ -465,19 +465,19 @@ footer a:hover{
 }
 
 .slide:nth-of-type(1) {
-  background: transparent;
+  background: white;
 }
 
 .slide:nth-of-type(2) {
-  background: transparent;
+  background: white;
 }
 
 .slide:nth-of-type(3) {
-  background: transparent;
+  background: white;
 }
 
 .slide:nth-of-type(4) {
-  background: transparent;
+  background: white;
 }
 
 .slide_buttons {
