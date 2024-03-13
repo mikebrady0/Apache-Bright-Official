@@ -258,6 +258,11 @@ section{
 /**** ABOUT END ****/
 /**** SERVICE ****/
 
+.service-grid {
+    display: grid;
+    justify-content: center;
+}
+
 .service-section h3{
     font-size: 36px;
     margin-bottom: 30px;
