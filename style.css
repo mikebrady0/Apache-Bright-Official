@@ -306,6 +306,7 @@ section{
 
 .service-items {
     display: flex-grid;
+    flex-wrap: wrap;
     width: 275px;
     margin-left: 50%;
     margin-right: 50%;
